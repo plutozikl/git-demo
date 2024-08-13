@@ -1,2 +1,3 @@
 hello git!
 the fifth master!
+the hot-fix second commit!
